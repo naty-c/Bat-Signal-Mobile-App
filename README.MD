@@ -34,7 +34,7 @@ Here’s a glimpse of the Bat-Signal App layout:
 |:----------:|:----------:|
 | ![App Screenshot](./src/assets/home-screen.png) | ![App Screenshot](./src/assets/form-screen.png) |
 
-## ⚖️ Techn Stack
+## ⚖️ Tech Stack
 
 - [React Native](https://reactnative.dev/)  
 - [TypeScript](https://www.typescriptlang.org/)  
